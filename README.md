@@ -31,7 +31,7 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
-   nvm install
+   nvm install 16.4.0
    ```
 
 3. Install dependencies
