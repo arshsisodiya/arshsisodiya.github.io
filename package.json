@@ -1,11 +1,11 @@
 {
-  "name": "v2",
+  "name": "V2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Arshsisodiya <arshsisodiya@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/arshsisodiya/arshsisodiya.github.io"
   },
   "keywords": [
     "gatsby"
