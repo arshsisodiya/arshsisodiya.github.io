@@ -45,6 +45,12 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    ```sh
    npm start
    ```
+## 🚀 Creating Favicons and Logo
+1. Download this [Photoshop project] (https://github.com/arshsisodiya/arshsisodiya.github.io/blob/master/favicon-photoshop-project-file/favicon.psd)
+2. open it in Photoshop 2020 or latest and edit it according to your name
+3. Export the .PNG file
+4. Generate favicons from This [Favicon generator] (https://www.favicon-generator.org/)
+5. Copy all fav icons and paste them inside .src/images/favicons
 
 ## 🚀 Building and Running for Production
 
