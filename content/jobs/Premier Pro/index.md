@@ -1,15 +1,16 @@
 ---
 date: '2020-04-29'
 title: 'Adobe Premier pro basics'
-company: 'Adobe Premier pro'
+company: 'Udemy'
 range: 'March - April 2018'
 url: ''
 ---
 
-- Certified in video editing in Adobe Premier pro from Udemy
-- Learned how to use Video editing softwares
-- Basics of Color Grading
-- learned basic of cinematography
-- Importance of forground and background details
+- Certified in Video Editing in Adobe Premiere Pro (Udemy)
+- Learned how to use various video editing software
+- Basics of color grading, and cinematography
+- Learned basic of cinematography
+- Emphasized the importance of foreground and background details,
 - Basics of Sound effets and noise cancellation in premier pro
+- Edited several gaming videos.
 - View [CERTIFICATE](https://drive.google.com/file/d/1Y5BEDRQKdTToeRuH3qmuxgDAkyuYTCib/view?usp=sharing)
