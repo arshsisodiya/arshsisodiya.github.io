@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'X',
-      url: 'https://x.com/arshsisodiya',
+      url: 'https://x.com/intent/follow?screen_name=arshsisodiya',
     },
     {
       name: 'Linkedin',
