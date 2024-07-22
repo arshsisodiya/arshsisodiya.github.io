@@ -244,13 +244,13 @@ const Jobs = () => {
 
   return (
     <StyledJobsSection id="jobs" ref={revealContainer}>
-      <h2 className="numbered-heading">What I've learned</h2>
+      <h2 className="numbered-heading">My Certificates</h2>
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
           {jobsData &&
             jobsData.map(({ node }, i) => {
-              const { company } = node.frontmatter;
+              const { title } = node.frontmatter;
               return (
                 <StyledTabButton
                   key={i}
@@ -262,7 +262,7 @@ const Jobs = () => {
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}>
-                  <span>{company}</span>
+                  <span>{title}</span>
                 </StyledTabButton>
               );
             })}
@@ -273,7 +273,7 @@ const Jobs = () => {
           {jobsData &&
             jobsData.map(({ node }, i) => {
               const { frontmatter, html } = node;
-              const { title, range } = frontmatter;
+              const { title, url, company, range } = frontmatter;
 
               return (
                 <CSSTransition key={i} in={activeTabId === i} timeout={250} classNames="fade">
@@ -286,6 +286,12 @@ const Jobs = () => {
                     hidden={activeTabId !== i}>
                     <h3>
                       <span>{title}</span>
+                      <span className="company">
+                        &nbsp;from &nbsp;
+                        <a href={url} className="inline-link">
+                          {company}
+                        </a>
+                      </span>
                     </h3>
 
                     <p className="range">{range}</p>
