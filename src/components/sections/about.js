@@ -141,7 +141,8 @@ const About = () => {
               started programming in 2019. and completed my Bachelors in
               <a href="https://poornima.edu.in">Computer Applicatons </a> in 2021 with 86.3%
               aggregate.<br></br>
-              Currently, I am pursuing my master’s in the same field.
+              Currently, I am pursuing my master’s in the same field from PCET's{' '}
+              <a href="https://pcu.edu.in"> PCU </a>.
             </p>
 
             <p>
@@ -150,14 +151,12 @@ const About = () => {
                 a Telegram Mirror and Leech bot
               </a>
               ,{' '}
-              <a href="https://github.com/arshsisodiya/ProjectFizilion">
-                a Telegram userbot for automating tasks
-              </a>
-              , and I've also worked with the custom ROM community to build and release custom ROMs
-              for android phones, along with many web apps. Additionally, I have built a community
-              of almost 2,000 people on Telegram, called{' '}
-              <a href="https://t.me/mirrorsociety1"> Mirror Society</a>, to share ideas and help
-              each other.
+              <a href="https://github.com/arshsisodiya/ProjectFizilion">A userbot for Telegram </a>{' '}
+              to automate tasks and transform Telegram into a superapp, and I've also worked with
+              the custom ROM community to build and release custom ROMs for android phones, along
+              with many web apps. Additionally, I have built a community of almost 2,000 people on
+              Telegram, called <a href="https://t.me/mirrorsociety1"> Mirror Society</a>, to share
+              ideas and help each other.
             </p>
 
             <p>Here are a few technologies and apps I’ve been working with recently:</p>
