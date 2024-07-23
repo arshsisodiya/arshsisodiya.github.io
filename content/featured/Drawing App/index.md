@@ -11,4 +11,4 @@ tech:
   - CSS
 ---
 
-A drawing web app that allows users to create artwork using their mouse. It offers features to change brush color and size, and revert changes with a single click
+A drawing web app that empowers users to create artwork using their mouse or stylus. It features customizable brush colors and sizes, along with an easy-to-use undo function for reverting changes with a single click.

@@ -12,4 +12,4 @@ tech:
   - Github Pages
 ---
 
-A personal mini website created using Anime.js, showcasing all details with dynamic typing animations and interactive message-sending effects.
+A personal mini website crafted with Anime.js, featuring dynamic typing animations and interactive message-sending effects. The site also greets visitors with time-appropriate messages, creating a personalized and engaging user experience.
