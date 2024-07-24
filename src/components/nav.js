@@ -208,7 +208,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href={`https://t.me/arshsisodiya?text=Hello!`}
+      href={`https://t.me/NmberSEVEN?text=Hello!`}
       target="_blank"
       rel="noopener noreferrer">
       Say Hello!
