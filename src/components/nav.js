@@ -206,9 +206,16 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume
+    <a
+      className="resume-button"
+      href={`https://t.me/arshsisodiya?text=Hello!`}
+      target="_blank"
+      rel="noopener noreferrer">
+      Say Hello!
     </a>
+    // Using Resume button to say hello because don't have resume ready at this moment
+    // TODO
+    // Create a Single page Resume using HTML and CSS with PDF generation facility.
   );
 
   return (
