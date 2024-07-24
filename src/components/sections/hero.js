@@ -61,9 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Arsh Sisodiya.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="medium-heading">MCA | Open Source Developer</h3>;
   const four = (
     <>
+      <p>
+        <b>Glad to e-meet you!</b>
+      </p>
       <p>
         My real name is Bhagchand Meena, I’m a computer science student and programmer. Outside of
         work and studies, I enjoy writing short, amateur pieces on{' '}
