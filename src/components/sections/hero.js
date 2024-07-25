@@ -49,6 +49,8 @@ const StyledHeroSection = styled.section`
 const Hero = () => {
   const [isMounted, setIsMounted] = useState(false);
   const prefersReducedMotion = usePrefersReducedMotion();
+  const greetings = ['Hello', 'Namaste', 'Khamma Ghani', 'Ram Ram Bhai Sareya Ne'];
+  const greeting = greetings[Math.floor(Math.random() * greetings.length)];
 
   useEffect(() => {
     if (prefersReducedMotion) {
@@ -59,7 +61,7 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>{greeting}, my name is</h1>;
   const two = <h2 className="big-heading">Arsh Sisodiya.</h2>;
   const three = <h3 className="medium-heading">MCA | Open Source Developer</h3>;
   const four = (
