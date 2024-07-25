@@ -1,11 +1,11 @@
 {
-  "name": "Personal Portolio",
+  "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Arsh Sisodiya <arshsisodiya@gmail.com>",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arshsisodiya/arshsisodiya.github.io"
+    "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
@@ -20,8 +20,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "lint-staged": "lint-staged",
-    "deploy": "npm run build && git add public && git commit -m 'Deploy build' && git push origin master"
+    "lint-staged": "lint-staged"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
