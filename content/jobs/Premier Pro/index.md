@@ -1,6 +1,6 @@
 ---
 date: '2020-04-29'
-title: 'Adobe Premier pro basics'
+title: 'Adobe Premier Pro'
 company: 'Udemy'
 range: 'March - April 2018'
 url: ''

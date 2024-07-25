@@ -1,6 +1,6 @@
 ---
 date: '2020-09-10'
-title: Introducation to Git and Github
+title: Git and Github
 company: 'Google'
 range: 'Sept 2020 - 10 Oct 2020'
 url: ''

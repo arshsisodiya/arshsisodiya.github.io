@@ -1,6 +1,6 @@
 ---
 date: '2020-05-31'
-title: 'Cyber Security Awareness'
+title: 'Cyber Security'
 company: 'HOPE FOUNDATION'
 location: 'Boston, MA'
 range: 'May 2020'
