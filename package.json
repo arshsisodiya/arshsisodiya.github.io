@@ -1,11 +1,11 @@
 {
-  "name": "v4",
+  "name": "Personal Portolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Arsh Sisodiya <arshsisodiya@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/arshsisodiya/arshsisodiya.github.io"
   },
   "keywords": [
     "gatsby"
