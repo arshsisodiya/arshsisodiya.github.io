@@ -266,9 +266,14 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a
+              className="resume-link"
+              href="https://t.me/NmberSEVEN?text=Hi!"
+              target="_blank"
+              rel="noopener noreferrer">
+              Say Hi!
             </a>
+            {/*Using Resume button to say hello because don't have resume ready at this moment*/}
           </nav>
         </StyledSidebar>
       </div>
