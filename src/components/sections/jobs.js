@@ -66,6 +66,13 @@ const StyledTabList = styled.div`
   }
 `;
 
+const Title = styled.span`
+  @media (max-width: 768px) {
+    text-wrap: balance;
+    white-space: normal;
+  }
+`;
+
 const StyledTabButton = styled.button`
   ${({ theme }) => theme.mixins.link};
   display: flex;
@@ -262,7 +269,7 @@ const Jobs = () => {
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}>
-                  <span>{title}</span>
+                  <Title>{title}</Title>
                 </StyledTabButton>
               );
             })}
