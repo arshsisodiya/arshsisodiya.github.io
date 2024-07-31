@@ -19,23 +19,19 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-
-      - name: Install gatsby-cli
+      - name: Install gatsby-clit
         run: npm install -g gatsby-cli
 
       - name: Install dependencies
-        run: npm install
+        run: yarn
 
       - name: Build the project
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -f public
           git commit -m 'Deploy build'
-          git subtree split --prefix public -b gh-pages
-          git push origin gh-pages:master --force
+          git push origin `git subtree split --prefix public code`:master --force
