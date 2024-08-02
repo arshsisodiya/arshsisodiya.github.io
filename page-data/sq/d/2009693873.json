@@ -1,0 +1,68 @@
+{
+  "data": {
+    "jobs": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Programming for Everybody:Python",
+              "company": "University of Michigan",
+              "location": null,
+              "range": "July 2020 - Oct 2020",
+              "url": "https://drive.google.com/file/d/1S5jOfUlC0gLiyP06R2bp1a4173EKUySV/view?usp=sharing"
+            },
+            "html": "<ul>\n<li>Certified in Python Basics from the University of Michigan via Coursera.</li>\n<li>Proficient in Algorithms and Data Structures, with a solid understanding of fundamental concepts.</li>\n<li>Developed Various Scripts: Created multiple sorting algorithms and web scraping scripts for project work.</li>\n<li>Built Numerous Telegram Bots using Pyrogram and the Telegram API, enhancing automation and user interaction capabilities.</li>\n<li>View <a href=\"https://drive.google.com/file/d/1S5jOfUlC0gLiyP06R2bp1a4173EKUySV/view?usp=sharing\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CERTIFICATE</a></li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Git and Github",
+              "company": "Google",
+              "location": null,
+              "range": "Sept 2020 - 10 Oct 2020",
+              "url": ""
+            },
+            "html": "<ul>\n<li>Certified in Git and GitHub from Coursera through the Learn with Google program.</li>\n<li>Mastered Git SCM CLI: Gained proficiency in using Git command-line interface for version control.</li>\n<li>Pull Requests: Learned how to create and manage pull requests effectively.</li>\n<li>GitHub Expertise: Developed a strong understanding of GitHub for collaboration and project management.</li>\n<li>Conflict Resolution: Acquired skills to resolve merge conflicts efficiently.</li>\n<li>Open Source Contributions: Learned how to contribute to open source projects.</li>\n<li>Commit Messages: Understood the basics and importance of clear and informative commit messages.</li>\n<li>View <a href=\"https://drive.google.com/file/d/18eBKSF0xmq3OQgs7soCXjckw-cRxFCD4/view?usp=sharing\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CERTIFICATE</a></li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Responsive Website Basics",
+              "company": "University of London",
+              "location": null,
+              "range": "May - June 2020",
+              "url": ""
+            },
+            "html": "<ul>\n<li>Certified in Web Development from the University of London via Coursera.</li>\n<li>Developed a Dynamic eCommerce Website using PHP and MySQL, demonstrating full-stack development skills.</li>\n<li>Proficient in Front-End Technologies: Gained expertise in creating websites using JavaScript, HTML, and CSS.</li>\n<li>Created a Responsive Image Gallery using JavaScript, showcasing advanced front-end development capabilities.</li>\n<li>Built a Personal Portfolio using HTML, CSS, and JavaScript, highlighting my projects and skills effectively.</li>\n<li>Developed a <a href=\"https://prakashphotoandevent.wordpress.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Photography Website</a> for a photographer friend using WordPress, enhancing my skills in content management systems.</li>\n<li>View <a href=\"https://drive.google.com/file/d/1p0haJXCVSa1OuX5Z_VcuvIn-PMOBVDLd/view?usp=sharing\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CERTIFICATE</a></li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Cyber Security",
+              "company": "HOPE FOUNDATION",
+              "location": "Boston, MA",
+              "range": "May 2020",
+              "url": ""
+            },
+            "html": "<ul>\n<li>Threat Detection: Recognized and responded to advanced cyber threats.</li>\n<li>Network Security: Learned about firewalls, IDS, and VPNs for data protection.the Starry Station internet router</li>\n<li>Incident Response: Understood steps for effective incident response planning.</li>\n<li>Data Encryption: Learned techniques to secure sensitive data at rest and in transit.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Adobe Premier Pro",
+              "company": "Udemy",
+              "location": null,
+              "range": "March - April 2018",
+              "url": ""
+            },
+            "html": "<ul>\n<li>Certified in Video Editing in Adobe Premiere Pro (Udemy)</li>\n<li>Learned how to use various video editing software</li>\n<li>Basics of color grading, and cinematography</li>\n<li>Learned basic of cinematography</li>\n<li>Emphasized the importance of foreground and background details,</li>\n<li>Basics of Sound effets and noise cancellation in premier pro</li>\n<li>Edited several gaming videos.</li>\n<li>View <a href=\"https://drive.google.com/file/d/1Y5BEDRQKdTToeRuH3qmuxgDAkyuYTCib/view?usp=sharing\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CERTIFICATE</a></li>\n</ul>"
+          }
+        }
+      ]
+    }
+  }
+}

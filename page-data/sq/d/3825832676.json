@@ -1,0 +1,85 @@
+{
+  "data": {
+    "projects": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Telegram Mirror and Leech bot",
+              "tech": ["Python", "Pyrogram", "Telegram-API"],
+              "github": "",
+              "external": "https://github.com/arshsisodiya/helios-mirror"
+            },
+            "html": "<p>A bot capable of downloading content from torrent, youtube or any given link, and seamlessly uploading it to Google Drive and Telegram.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Text to handwriting tool ",
+              "tech": ["HTML", "CSS", "Javascript", "Github Pages"],
+              "github": "https://github.com/arshsisodiya/writinger",
+              "external": "https://arshsisodiya.github.io/writinger/"
+            },
+            "html": "<p>A text-to-handwriting tool that converts any text into human-like handwriting. It has helped thousands of students complete their assignments and even write online exams during the COVID-19 pandemic.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Personal Portfolio V2",
+              "tech": ["HTML", "CSS", "JS", "Github Pages"],
+              "github": "https://github.com/arshsisodiya/personal-portfolio",
+              "external": "https://arshsisodiya.github.io/personal-portfolio/"
+            },
+            "html": "<p>Second iteration of my personal website, designed and developed with a conscious effort to showcase my skills and make better use of CSS.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Project Fizilion",
+              "tech": ["Python", "Pyrogram", "Docker", "Telegram-API"],
+              "github": "",
+              "external": "https://github.com/arshsisodiya/ProjectFizilion"
+            },
+            "html": "<p>A Telegram userbot designed for automating tasks such as Google searches, translations, text-to-speech, downloading from the web, and sending content in chat. It handles many tasks seamlessly without leaving the Telegram app.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Email Spammer",
+              "tech": ["Python", "smtp", "email.message lib"],
+              "github": "https://github.com/crowddj/crowddj-react",
+              "external": ""
+            },
+            "html": "<p>A python script to send 1000 continuous mail to given email address 'intended for educational purpose only'</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Message spammer",
+              "tech": ["Python", "Pyautogui", "Screen Scrapping"],
+              "github": "https://github.com/arshsisodiya/Message-Spammer-Using-Python",
+              "external": ""
+            },
+            "html": "<p>A real time Message spammer that can continuously send thousands of messages to given target. 'intended for educational purpose only'</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Personal Website V1",
+              "tech": ["HTML", "CSS", "JS", "Bootstrap"],
+              "github": "https://github.com/arshsisodiya/portfolio",
+              "external": "https://arshsisodiya.github.io/portfolio/"
+            },
+            "html": "<p>My first portfolio website I designed and built in 2019. I learned quite a bit about HTML, CSS, and SEO.</p>"
+          }
+        }
+      ]
+    }
+  }
+}

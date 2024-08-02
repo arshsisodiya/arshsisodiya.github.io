@@ -1,0 +1,13 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Arsh Sisodiya",
+        "defaultDescription": "Arsh Sisodiya is a software developer and Computer Science Student .",
+        "siteUrl": "https://arshsisodiya.github.io",
+        "defaultImage": "/og.png",
+        "twitterUsername": "@arshsisodiya"
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Helios Mirror",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABjklEQVQoz3WR6W7cMAyEdV+UbMmWkT2wyTZF8/5vOAW53bRp0R9jkYb0aThS9/sP3L994HJ5w/nyijlfMOcJYxxY1x219k+12rGNA2NM9D5xHGfMecb1+obv7x94vd6hFopYakKKFiU5BKc/61oiqARQDrI24t4jeAWrf0k9VmceUtkrsLa14NgbtmpAUWGpEfto2EfF1h96OTac5o5BhMYXlIi1JrCp5JVIKSUfEC0oVFFyRPAez/8sY4zIaotwI4T3hpwI1lo4H6CN/XO/ghZgBREhpSgyRsNaA2ctvHMIwSMGj7RmpJ5R+468bogpfblcgHxw3zf4EASkORNnsS4VrRakGJBThPecsUeOCbpdYNYbzHKDKfNf4Jw7ci5Sa60F2NcFfW1olbA0EjA7LSULxNQTbLtAh/YVyOq9I8YoNTvkfBjEDh8ixBjEZaVH75z7e9zfwDEGqFbJk8fm3CplUMnySNyze4YykB37/wEZ0lpDWxZ5hOfIJSfJjkcVd/w43snIY9tkz/P8E/gTY3nagUDvtHMAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/57746547402c2c575a54044df3be2fc0/19068/demo.png",
+                        "srcSet": "/static/57746547402c2c575a54044df3be2fc0/df062/demo.png 175w,\n/static/57746547402c2c575a54044df3be2fc0/682a1/demo.png 350w,\n/static/57746547402c2c575a54044df3be2fc0/19068/demo.png 700w,\n/static/57746547402c2c575a54044df3be2fc0/7426d/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/57746547402c2c575a54044df3be2fc0/2eb69/demo.avif 175w,\n/static/57746547402c2c575a54044df3be2fc0/3974e/demo.avif 350w,\n/static/57746547402c2c575a54044df3be2fc0/9b6dc/demo.avif 700w,\n/static/57746547402c2c575a54044df3be2fc0/f3716/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/57746547402c2c575a54044df3be2fc0/ff6f3/demo.webp 175w,\n/static/57746547402c2c575a54044df3be2fc0/519c5/demo.webp 350w,\n/static/57746547402c2c575a54044df3be2fc0/dfdd7/demo.webp 700w,\n/static/57746547402c2c575a54044df3be2fc0/8eb58/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 348
+                  }
+                }
+              },
+              "tech": [
+                "Python",
+                "Pyrogram",
+                "Telegram-API",
+                "Google Drive API",
+                "Yt-dlp",
+                "aria2c",
+                "qbittorrent",
+                "Docker",
+                "Heroku",
+                "telegraph"
+              ],
+              "github": "https://github.com/arshsisodiya/helios-mirror",
+              "external": "",
+              "cta": null
+            },
+            "html": "<p>A versatile bot designed to download content from torrents, Mega.nz, OneDrive, and any direct link. Utilizing yt-dlp, it fetches and downloads content from a wide array of streaming sites such as YouTube, Twitch, X (formerly Twitter), Instagram, and many more. The bot seamlessly uploads the downloaded content to Google Drive and Telegram. Additionally, it can seed and leech torrents, ensuring efficient file sharing and distribution.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Mini Portfolio",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABBElEQVQoz52RTU+DQBiE99doKwo0UMXExH+tnpo08SOl8C5QYKGE7fKxSGO9WIkxBNar3sAnc53MTAZdaoYsa7KszxR9ps5Vda7ImnF1c23cqsp8OpFPT6Tfmk4upDP1XFJ0VUGLxfLh/u7l+QnABcC2jW0bLAusNZimZZrW+q9sC8DGGDCAg6qqKnImRCfGgyilPomTlEVRTAjhnPeDQYwxL9r5SRGEBGOo63pcsuPgwN+4rkfp7u1w6LqhE1CeZYHvxSSMQj/ZxseP977vh5pDWq1IBdtXk1Rhyr+/mn54bcL2jxu+Csqlx9n+KIQYYc7zjNGUl3lRlqOv+myatm3Fv/gBq4RDp1ZFcW0AAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/94ead6886a07285b56de20147cad4344/0a61b/demo.png",
+                        "srcSet": "/static/94ead6886a07285b56de20147cad4344/dfbac/demo.png 175w,\n/static/94ead6886a07285b56de20147cad4344/692d7/demo.png 350w,\n/static/94ead6886a07285b56de20147cad4344/0a61b/demo.png 700w,\n/static/94ead6886a07285b56de20147cad4344/2bc2c/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/94ead6886a07285b56de20147cad4344/55e84/demo.avif 175w,\n/static/94ead6886a07285b56de20147cad4344/4f9e8/demo.avif 350w,\n/static/94ead6886a07285b56de20147cad4344/197d7/demo.avif 700w,\n/static/94ead6886a07285b56de20147cad4344/1a64d/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/94ead6886a07285b56de20147cad4344/1ab83/demo.webp 175w,\n/static/94ead6886a07285b56de20147cad4344/8f9e7/demo.webp 350w,\n/static/94ead6886a07285b56de20147cad4344/1e9b7/demo.webp 700w,\n/static/94ead6886a07285b56de20147cad4344/8b647/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 378
+                  }
+                }
+              },
+              "tech": ["Javascript", "AnimeJS", "CSS", "HTML", "Github Pages"],
+              "github": "https://github.com/arshsisodiya/Personal-mini-website",
+              "external": "https://arshsisodiya.github.io/Personal-mini-website/",
+              "cta": null
+            },
+            "html": "<p>A personal mini website crafted with Anime.js, featuring dynamic typing animations and interactive message-sending effects. The site also greets visitors with time-appropriate messages, creating a personalized and engaging user experience.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Drawings App",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABhklEQVQoz42OzU7CQBSF+zKitiIoSuLPyhfw5zXcu9D4DMatWyPBlQs3bqS0pWBCQpCNgAX8jZiI0Jk705l2aE1tomiMevItztycM/dKqZm0Iifj8VQyMZeeX1xeWknNLIzHlPGYIk8m5Inp2JgcEQ0nJ+KKnJxSErOJaalYvPigVLow9GJeLaiqrmtmXjXUnJ5XjdCc61q+YBimWSiFyfe8NByK4aeEy13f94MgoJRwzvwg9EHgC08IT/j+cFQSfJU9QJZl1Wo1TdM6nQ7nvNFodLtPBAiy0bewREYEAJQ42Ww2l8sBQPRLtVrt9/sABCNMvkr69kY2brfbvV7PNM1yuYwQ8jyPUooRxhj+KNuDMN1qtSzLEkJQSgGAUIIRYAR/b8YYGGOcsdABiUD2P8oYYcYdxh3XY674xGFOeMIvZUrpS7d/23xu1x+vKjf1ykO9ch/RrN6/vgyoQwn8VAYA7jrNy4fTg8rh3tnWxsHu2vHO2tHOemZ7NbO/eXJ3/cQ9Nrr/DUbBKyEt8IMeAAAAAElFTkSuQmCC"
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/8493a46f73b1750b12993e706786f469/0a61b/demo.png",
+                        "srcSet": "/static/8493a46f73b1750b12993e706786f469/dfbac/demo.png 175w,\n/static/8493a46f73b1750b12993e706786f469/692d7/demo.png 350w,\n/static/8493a46f73b1750b12993e706786f469/0a61b/demo.png 700w,\n/static/8493a46f73b1750b12993e706786f469/2bc2c/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/8493a46f73b1750b12993e706786f469/55e84/demo.avif 175w,\n/static/8493a46f73b1750b12993e706786f469/4f9e8/demo.avif 350w,\n/static/8493a46f73b1750b12993e706786f469/197d7/demo.avif 700w,\n/static/8493a46f73b1750b12993e706786f469/1a64d/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/8493a46f73b1750b12993e706786f469/1ab83/demo.webp 175w,\n/static/8493a46f73b1750b12993e706786f469/8f9e7/demo.webp 350w,\n/static/8493a46f73b1750b12993e706786f469/1e9b7/demo.webp 700w,\n/static/8493a46f73b1750b12993e706786f469/8b647/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 378
+                  }
+                }
+              },
+              "tech": ["Javascript", "HTML", "CSS"],
+              "github": "https://github.com/arshsisodiya/drawing-app",
+              "external": "https://arshsisodiya.github.io/drawing-app/",
+              "cta": ""
+            },
+            "html": "<p>A drawing web app that empowers users to create artwork using their mouse or stylus. It features customizable brush colors and sizes, along with an easy-to-use undo function for reverting changes with a single click.</p>"
+          }
+        }
+      ]
+    }
+  }
+}
